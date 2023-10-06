@@ -23,45 +23,56 @@ I'm a full stack developer from China,
   
   - Java
     
-    - Java语言
+    - Java 语言
       
-    - Spring全家桶
+    - Spring 全家桶
       
-    - Mybatis
+    - ORM
       
+      - Mybatis
+        
+      - MybatisPlus
+        
   - Python
     
-    - Python语言
+    - Python 语言
       
     - FastAPI
       
     - Django
       
+    - Flask
+      
   - Application_Server
     
     - Tomcat
-- 数据库
-  
-  - Dameng数据库
+      
+    - Jetty
+      
+    - Undertow
+      
+  - 数据库
     
-  - Mysql数据库
+    - Dameng 数据库
+      
+    - Mysql 数据库
+      
+    - TDengine 时序数据库
+      
+    - Neo4j 图数据库
+      
+    - MinIO 对象存储
+      
+  - 中间件
     
-  - TDengine时序数据库
-    
-  - Neo4j图数据库
-    
-  - MinIO对象存储
-    
-- 中间件
-  
-  - Kafka
-    
-  - RabbitMQ
-    
-  - Redis
-    
-  - Nginx
-    
+    - Kafka
+      
+    - RabbitMQ
+      
+    - Redis
+      
+    - Nginx
+      
 - 前端
   
   - Javascript
@@ -76,7 +87,7 @@ I'm a full stack developer from China,
     
 - 移动端/跨平台
   
-  - 微信小程序开发
+  - uni-app：开发跨平台小程序
     
   - Android
     
@@ -86,7 +97,7 @@ I'm a full stack developer from China,
     
 - 服务器运维
   
-  - Linux常用命令
+  - Linux 常用命令
     
   - Bash
     
